@@ -8,7 +8,7 @@ BlackBaud NetCommunity is one of, if not the, most popular web based solutions f
 1. Currently, we have .NET 4.7 on this server, I have had success selecting any .NET framework >= 4.0. For this plugin, we select .NET 4.5
 1. After selecting a .NET version, name the project something relevant to the plugin you are creating, choose a save location, and click OK
 
-![Creating an Empty Web Application in Visual Studio](https://raw.githubusercontent.com/brycejech/BlackBaud-NetCommunity-Custom-Plugin-Guide/master/screenshots/CreateEmptyWebApplication.jpg)
+![Creating an Empty Web Application in Visual Studio](https://github.com/brycejech/BlackBaud-NetCommunity-Custom-Plugin-Guide/raw/master/screenshots/CreateEmptyWebApplication.jpg)
 
 ## Add `BBNCExtensions` Assembly Reference
 
